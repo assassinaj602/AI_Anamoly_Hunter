@@ -1,0 +1,5 @@
+{
+  "name": "AI Anomaly Hunter & Earth Change Tracker",
+  "description": "A scientific discovery tool powered by Gemini 3 to detect anomalies in satellite imagery and track environmental changes over time.",
+  "requestFramePermissions": []
+}
